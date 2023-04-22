@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mustafa_ma7mad" target="blank"><img src="https://img.shields.io/twitter/follow/mustafa_ma7mad?logo=twitter&style=for-the-badge" alt="mustafa_ma7mad" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, KMM and Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose, KMM and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustafa-Muhamed-Mansour](https://github.com/Mustafa-Muhamed-Mansour)
 
