@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, KMM and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mustafa-Muhamed-Mansour](https://github.com/Mustafa-Muhamed-Mansour)
-
 - 📝 I write articles on [https://medium.com/@mustafamansour](https://medium.com/@mustafamansour)
 
 - 💬 Ask me about **Android, Kotlin, Java and more.**
