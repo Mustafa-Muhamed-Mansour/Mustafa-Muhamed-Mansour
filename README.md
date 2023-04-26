@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mohamed Mansour</h1>
-<h3 align="center">An Passionate Android Developer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="An Passionate Android Developer"></a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-muhamed-mansour" alt="mustafa-muhamed-mansour" /></a> </p>
 
