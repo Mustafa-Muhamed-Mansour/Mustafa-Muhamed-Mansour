@@ -2,9 +2,6 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An-Passionate%20Android%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
-<h3 align="center">An Passionate Android Developer</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-muhamed-mansour" alt="mustafa-muhamed-mansour" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mustafa_ma7mad" target="blank"><img src="https://img.shields.io/twitter/follow/mustafa_ma7mad?logo=twitter&style=for-the-badge" alt="mustafa_ma7mad" /></a> </p>
