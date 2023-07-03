@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mustafa_ma7mad" target="blank"><img src="https://img.shields.io/twitter/follow/mustafa_ma7mad?logo=twitter&style=for-the-badge" alt="mustafa_ma7mad" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose, KMM and Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📝 I write articles on [https://medium.com/@mustafamansour](https://medium.com/@mustafamansour)
 
-- 💬 Ask me about **Android, Kotlin, Java and more.**
+- 💬 Ask me about **Android, Kotlin, Java, and more.**
 
 - 📫 How to reach me **mustafamansour774@gmail.com**
 
