@@ -5,8 +5,6 @@
 </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-muhamed-mansour" alt="mustafa-muhamed-mansour" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mustafa_ma7mad" target="blank"><img src="https://img.shields.io/twitter/follow/mustafa_ma7mad?logo=twitter&style=for-the-badge" alt="mustafa_ma7mad" /></a> </p>
-
 - 🌱 I’m currently learning **Jetpack Compose**
 
 - 📝 I write articles on [https://medium.com/@mustafamansour](https://medium.com/@mustafamansour)
@@ -15,15 +13,11 @@
 
 - 📫 How to reach me **mustafamansour774@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X_Gltetvf5Vl_DK7Ji51wRdLtzQ2j8H-/view?usp=sharing](https://drive.google.com/file/d/1X_Gltetvf5Vl_DK7Ji51wRdLtzQ2j8H-/view?usp=sharing)
-
 - ⚡ Fact **I'm a Strong sense of commitment and responsibility.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mustafa_ma7mad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafa_ma7mad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafa-muhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-muhamed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18498144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18498144" height="30" width="40" /></a>
 <a href="https://medium.com/@mustafamansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafamansour" height="30" width="40" /></a>
 </p>
 
