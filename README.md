@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mustafamansour774@gmail.com**
 
-- ⚡ Fact **I'm a Strong sense of commitment and responsibility.**
+- ⚡ Fact **I have a strong sense of commitment and responsibility.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
