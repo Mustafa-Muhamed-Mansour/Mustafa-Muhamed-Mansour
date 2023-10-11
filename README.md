@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 📝 I write articles on [https://medium.com/@mustafamansour](https://medium.com/@mustafamansour)
+- 📝 I write articles on (https://medium.com/@mustafamansour)
 
 - 💬 Ask me about **Android, Kotlin, Java, and more.**
 
