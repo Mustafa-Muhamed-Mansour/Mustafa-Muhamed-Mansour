@@ -5,7 +5,7 @@
 </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-muhamed-mansour" alt="mustafa-muhamed-mansour" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **KMP**
 
 - 💬 Ask me about **Android, Kotlin, Java, and more.**
 
