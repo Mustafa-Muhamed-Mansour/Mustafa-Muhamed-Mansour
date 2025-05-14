@@ -29,7 +29,3 @@
 <h3 align="center">After dreaming solve about bugs on code</h3>
 
 ![image](https://media.giphy.com/media/w82PMXQYEbSOYSE9rb/giphy-downsized-large.gif)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-muhamed-mansour&show_icons=true&locale=en&layout=compact" alt="mustafa-muhamed-mansour" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-muhamed-mansour&show_icons=true&locale=en" alt="mustafa-muhamed-mansour" /></p>
